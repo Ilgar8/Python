@@ -1,0 +1,153 @@
+#python .python1 {
+  background-image: url(https://thepixelcurve.com/wp/lmsmart/lp/wp-content/uploads/sites/2/2021/12/REJ93.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  width: 100%;
+  height: 60vh;
+  position: relative;
+}
+#python .python1 .python-text {
+  position: absolute;
+  top: 40%;
+  left: 20%;
+}
+#python .python1 .python-text h1 {
+  color: #072f60;
+  font-size: 52px;
+  line-height: 40px;
+  font-weight: 600;
+  text-align: center;
+}
+#python .python1 .python-text .mini-box-python {
+  text-align: center;
+  padding-left: 200px;
+  padding-top: 20px;
+}
+#python .python1 .python-text .mini-box-python span {
+  padding-right: 15px;
+  color: #666666;
+  cursor: pointer;
+}
+#python .python1 .python-text .mini-box-python span:hover {
+  color: #3bbca7;
+}
+#python .python1 .python-text .mini-box-python p {
+  padding-left: 5px;
+  color: #3bbca7;
+  cursor: pointer;
+}
+
+#bootcamp {
+  width: 75%;
+  margin: auto;
+  margin-bottom: 100px;
+}
+#bootcamp .bootcamp-box .bootcamp-box-bottom h3 {
+  font-size: 33px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: #171c24;
+  padding-top: 20px;
+}
+#bootcamp .bootcamp-box .bootcamp-box-bottom span {
+  font-size: 15px;
+  color: #616161;
+  font-weight: 300;
+}
+#bootcamp .box-right {
+  padding-top: 20px;
+  border: 1px solid gray;
+  width: 100%;
+  height: 63vh;
+}
+#bootcamp .box-right .ilgar {
+  background-color: #F7F7F7;
+  margin-bottom: 20px;
+  padding: 20px 20px;
+}
+#bootcamp .box-right .box1 i {
+  color: #3ABCA7;
+  font-size: 25px;
+}
+#bootcamp .box-right h6 {
+  font-size: 18px;
+  color: black;
+}
+#bootcamp .box-right span {
+  color: gray;
+  font-weight: 400;
+}
+#bootcamp .box-right-bottom {
+  border: 1px solid gray;
+  margin-top: 20px;
+  padding: 30px;
+}
+#bootcamp .box-right-bottom h3 {
+  position: relative;
+  font-size: 20px;
+  text-align: center;
+}
+#bootcamp .box-right-bottom h3::before {
+  padding: 1px 35px;
+  border-bottom: 4px solid #40d9f1;
+  font-size: 6px;
+  content: "";
+  text-align: center;
+  position: absolute;
+  bottom: -4px;
+  margin-left: -35px;
+  bottom: -8px;
+  left: 50%;
+}
+#bootcamp .box-right-bottom .right-bottom .icon {
+  justify-content: center;
+}
+#bootcamp .box-right-bottom .right-bottom .icon i {
+  font-size: 25px;
+  padding: 10px;
+  margin: 10px;
+  color: white;
+  border-radius: 100%;
+}
+#bootcamp .calendar {
+  width: 65%;
+  padding: 30px;
+  margin: 50px 0;
+  border: 1px solid gray;
+}
+#bootcamp .calendar .calendar-box .haci {
+  justify-content: space-around;
+}
+#bootcamp .calendar .calendar-box .haci li {
+  list-style: none;
+  border: 2px solid #3BBCA7;
+  padding: 5px;
+  margin-top: 20px;
+  transition: 0.2s ease-in-out;
+  font-size: 20px;
+  border-radius: 3px;
+  color: #3ABCA7;
+}
+#bootcamp .calendar .calendar-box .haci li:hover {
+  background-color: #3BBCA7;
+  color: white;
+}
+#bootcamp .time {
+  width: 65%;
+  padding: 30px;
+  margin: 50px 0;
+  border: 1px solid gray;
+  display: flex;
+}
+#bootcamp .time .time-box {
+  padding: 30px 60px;
+  line-height: 1.3;
+  margin-top: 23px;
+  font-size: 100%;
+  font-weight: 500;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #616161;
+  position: relative;
+}/*# sourceMappingURL=style.css.map */
